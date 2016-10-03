@@ -1,0 +1,22 @@
+{
+  "name": "moment-tzdetect",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jamesjieye/tzdetect.js",
+  "authors": [
+    "Canop <cano.petrole@gmail.com>"
+  ],
+  "description": "A JavaScript library to detect the timezone using Moment.js",
+  "main": "tzdetect.js",
+  "keywords": [
+    "moment",
+    "timezone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
